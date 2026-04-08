@@ -110,7 +110,7 @@ Please see the section on licensing above for additional discussion.
 To use this repro just use:  
 
 ```
-git clone https://github.com/AtalaSupport/DemoGallery_Wev_WebViewingDemo_CS_x64.git WebViewingDemo
+git clone https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64.git WebViewingDemo
 ```
 
 If you've got DotImage 2026.2 installed and licensed, it should just build and run.  
