@@ -1,0 +1,6 @@
+Please note: this demo was built using the WebDocViewer resources from version 2026.2.0.0.48
+
+If you're building this demo using a different version of DotImage, 
+please be sure to replace these files with the ones from
+
+C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\WebResources\WebDocViewer\
