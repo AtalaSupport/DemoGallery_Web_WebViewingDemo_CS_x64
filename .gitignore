@@ -373,3 +373,8 @@ FodyWeavers.xsd
 # Saved Files in some demos
 **/Saved/*
 **/Saves/*
+
+# Try not to ignore readmes
+!README.txt
+!README.md
+
