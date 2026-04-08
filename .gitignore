@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Atalasoft uploads and scans
+# Atala-capture-upload is where scanned files go by default
+**/atala-capture-upload/*
+
+# TempSession is where some of our demos put files for the current session
+**/TempSession/*
+
+
+# Saved Files in some demos
+**/Saved/*
+**/Saves/*
